@@ -8,9 +8,9 @@ In this project, we will focus on energy usage in Cuba, New Mexico, primarily it
 
 Taos's energy model - Matthew
 
-How much energy the water filtration system uses - Kayla
+How much energy the water filtration system uses - Avi
 
-Expanding Cuba's power grid - Avi
+Expanding Cuba's power grid - Kayla
 
 Researching the terrain of Cuba and possible types of energy it can produce - Channi
 
